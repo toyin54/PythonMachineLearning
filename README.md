@@ -4,9 +4,9 @@ Data Science-Projects:
 ##Contents
 
 <ul>
-  <li><b>Python</b>: desadsa</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><b>Python</b>:Usin Python to run Classification models and create Visulizations desadsa</li>
+  <li><b>Decision Trees</b>:</li>
+  <li><b>SVM</b>:</li>
 </ul>
 
 This repository is mainly for projects I have done learning about classification models in Python.
@@ -18,6 +18,3 @@ This repository also shows my knowledge in creating visualizations in Python.
 Project 1 - Decision Trees.ipynb
 In this project, I use decision trees on a drug dataset to predict which conditions the specified drug should be used
 
-Project 2: Data Analysis with No-show Movie appointments
-Project 3: Data Analysis with-ncis-and-census-data
-Part 2 -Practical Statistics
