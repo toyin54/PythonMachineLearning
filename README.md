@@ -4,7 +4,7 @@ Data Science-Projects:
 ##Contents
 
 <ul>
-  <li><b>Python</b>:Usin Python to run Classification models and create Visulizations desadsa</li>
+  <li><b>Python</b>:Usin Python to run Classification models and create Visulizations </li>
   <li><b>Decision Trees</b>:</li>
   <li><b>SVM</b>:</li>
 </ul>
